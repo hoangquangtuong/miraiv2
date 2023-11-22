@@ -1,6 +1,6 @@
 [
    "xin chào chủ nhân :>",
-   "liên hệ fb: https://www.facebook.com/copyrightQuangTuong.Developers",
+   "liên hệ fb: https://www.facebook.com/hoangquangtuong.User",
    "Xin chào cậu chủ Hoàng Quang Tường ạ",
    "Chào mừng cậu chủ trở lại",
    "Chào cậu chủ Quang Tường đẹp trai UwU",
